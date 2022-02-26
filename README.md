@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlagieMadiCeesay
 - 👀 I’m interested in robotics
-- 🌱 I’m currently learning machatronicsEngineering
+- 🌱 I’m currently studying Mechatronics Engineering
 - 💞️ I’m looking to collaborate on robotics
 - 📫 How to reach me telegram
 
